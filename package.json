@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      "projection@1.1.0",
+      "C:\\Users\\abhilash\\Desktop\\Abhi_share\\25Sep2019 - AgentBuddyLife\\AgentBuddyLife"
+    ]
+  ],
+  "_from": "projection@1.1.0",
+  "_id": "projection@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-ui+Q/D8AG/WBx2o2ulX62bzNlxU=",
+  "_location": "/projection",
+  "_phantomChildren": {
+    "bl": "0.9.5",
+    "bluebird": "2.11.0",
+    "commander": "2.20.0",
+    "ctype": "0.5.3",
+    "escape-string-regexp": "1.0.5",
+    "forever-agent": "0.6.1",
+    "has-ansi": "2.0.0",
+    "hawk": "2.3.1",
+    "is-my-json-valid": "2.20.0",
+    "isstream": "0.1.2",
+    "json-stringify-safe": "5.0.1",
+    "stringstream": "0.0.6",
+    "strip-ansi": "3.0.1",
+    "tough-cookie": "2.4.3"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "projection@1.1.0",
+    "name": "projection",
+    "escapedName": "projection",
+    "rawSpec": "1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "1.1.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/projection/-/projection-1.1.0.tgz",
+  "_spec": "1.1.0",
+  "_where": "C:\\Users\\abhilash\\Desktop\\Abhi_share\\25Sep2019 - AgentBuddyLife\\AgentBuddyLife",
+  "author": {
+    "name": "Aetins Sdn Bhd"
+  },
+  "cordova": {
+    "id": "cordova-plugin-projection",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "Projection Calculation",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "ISC",
+  "name": "projection",
+  "version": "0.0.1"
+}
